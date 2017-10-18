@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SmartboxTV</string>
+    <string name="image">image</string>
+    <string name="smartboxtv_text">SmartboxTV</string>
+
+    <!-- Messages -->
+    <string name="internet_msg">Necesitas acceso a internet para utilizar esta aplicación.</string>
+    <string name="refresh_msg">Necesitas acceso a internet para actualizar la lista.</string>
+    <string name="title_msg">Sin Conexión</string>
+    <string name="retry_msg">Reintentar</string>
+
+    <string name="error_msg">Ha ocurrido un error</string>
+    <string name="network_error_msg">No se puede conectar a Internet. Compruebe su conexión.</string>
+    <string name="server_error_msg">No se pudo encontrar el servidor. Inténtalo más tarde.</string>
+    <string name="auth_failure_error_msg">Es necesaria la autenticación en el header.</string>
+    <string name="parse_error_msg">Error de sintáxis. Inténtalo más tarde.</string>
+    <string name="time_out_error_msg">Tiempo de espera agotado. Inténtelo más tarde.</string>
+    <string name="auth">Autenticando…</string>
+
+</resources>
